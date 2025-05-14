@@ -9,7 +9,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git 'https://github.com/Rohit-kb07/tomcat.git'
+                git 'https://github.com/Rohit-kb07/1Bi22CS134tom.git'
             }
         }
 
